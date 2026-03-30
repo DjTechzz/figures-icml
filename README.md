@@ -1,6 +1,6 @@
-# ICML Rebuttal Figures
+# Figures
 
-This repository contains figures for ICML rebuttal.
+This repository contains figures.
 
 ## Files
 - `figure_cstar_evolution_icml.pdf`
