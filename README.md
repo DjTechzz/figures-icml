@@ -8,3 +8,4 @@ This repository contains figures.
 - `Figure_4_new.png`
 - `Figure_4_old.png`
 
+For each Old vs New pair, the old figure occupies lesser space when you count the number of lines in the figure.
