@@ -3,5 +3,8 @@
 This repository contains figures.
 
 ## Files
-- `figure_1.pdf`
-- `figure_4.pdf`
+- `Figure_1_new.png`
+- `Figure_1_old.png`
+- `Figure_4_new.png`
+- `Figure_4_old.png`
+
